@@ -1,6 +1,6 @@
 name = "cf-workers-sub"
 main = "_worker.js"
-compatibility_date = "2025-06-21"
+compatibility_date = "2025-07-06"
 keep_vars = true
 
 [[kv_namespaces]]
